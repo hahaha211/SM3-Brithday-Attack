@@ -3,7 +3,7 @@ import random
 
 MAX = 2 ** 32
 FRONTS = 8
-vi = 0x13579acefdb8642013579acefdb8642013579acefdb8642013579acefdb86420
+vi = 0x7380166f4914b2b9172442d7da8a0600a96f30bc163138aae38dee4db0fb0e4e
 t = [0x79cc4519, 0x7a879d8a]
 
 def Int2Bin(octs, ra):
